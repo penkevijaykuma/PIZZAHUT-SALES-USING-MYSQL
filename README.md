@@ -1,5 +1,7 @@
 **🍕 PizzaHut Sales Analysis (MySQL)**
 **📋 Project Overview**
+
+
 This project involves analyzing sales data from a fictional PizzaHut database using MySQL. The goal is to extract valuable business insights from customer orders, such as total revenue, best-selling items, and time-based ordering patterns.
 
 The analysis uses SQL queries across multiple related tables: orders, order_details, pizzas, and pizza_types.
